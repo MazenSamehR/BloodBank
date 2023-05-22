@@ -1,0 +1,11 @@
+F:\VS projects\BloodBank-Final-DS\BloodBank\x64\Debug\BloodBank.vcxproj.AssemblyReference.cache
+F:\VS projects\BloodBank-Final-DS\BloodBank\x64\Debug\BloodBank.vcxproj.SuggestedBindingRedirects.cache
+F:\VS projects\BloodBank-Final-DS\BloodBank\x64\Debug\BloodBank.Admin.resources
+F:\VS projects\BloodBank-Final-DS\BloodBank\x64\Debug\BloodBank.Donor.resources
+F:\VS projects\BloodBank-Final-DS\BloodBank\x64\Debug\BloodBank.DonorUI.resources
+F:\VS projects\BloodBank-Final-DS\BloodBank\x64\Debug\BloodBank.MyForm.resources
+F:\VS projects\BloodBank-Final-DS\BloodBank\x64\Debug\BloodBank.Recipient.resources
+F:\VS projects\BloodBank-Final-DS\BloodBank\x64\Debug\BloodBank.RecipientUi.resources
+F:\VS projects\BloodBank-Final-DS\BloodBank\x64\Debug\BloodBank.Registration.resources
+F:\VS projects\BloodBank-Final-DS\BloodBank\x64\Debug\BloodBank.vcxproj.GenerateResource.cache
+F:\VS projects\BloodBank-Final-DS\BloodBank\x64\Debug\BloodBank.exe

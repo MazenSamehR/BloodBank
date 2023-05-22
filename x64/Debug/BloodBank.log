@@ -1,0 +1,33 @@
+﻿  Donor.cpp
+F:\VS projects\BloodBank-Final-DS\BloodBank\Donor.h(623,19): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\VS projects\BloodBank-Final-DS\BloodBank\Donor.h(655,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\Donor.h(656,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\Donor.h(776,26): warning C4858: discarding return value: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements.
+  MyForm.cpp
+F:\VS projects\BloodBank-Final-DS\BloodBank\Donor.h(623,19): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\VS projects\BloodBank-Final-DS\BloodBank\Donor.h(655,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\Donor.h(656,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\Donor.h(776,26): warning C4858: discarding return value: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements.
+F:\VS projects\BloodBank-Final-DS\BloodBank\Recipient.h(851,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\Recipient.h(965,27): warning C4858: discarding return value: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements.
+F:\VS projects\BloodBank-Final-DS\BloodBank\Admin.h(413,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\Admin.h(421,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\Admin.h(431,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\DonorUI.h(963,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\VS projects\BloodBank-Final-DS\BloodBank\DonorUI.h(1314,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\RecipientUi.h(1105,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\RecipientUi.h(1303,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\MyForm.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  RecipientUi.cpp
+F:\VS projects\BloodBank-Final-DS\BloodBank\RecipientUi.h(1105,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\RecipientUi.h(1303,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Registration.cpp
+F:\VS projects\BloodBank-Final-DS\BloodBank\Donor.h(623,19): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\VS projects\BloodBank-Final-DS\BloodBank\Donor.h(655,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\Donor.h(656,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\Donor.h(776,26): warning C4858: discarding return value: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements.
+F:\VS projects\BloodBank-Final-DS\BloodBank\Recipient.h(851,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\VS projects\BloodBank-Final-DS\BloodBank\Recipient.h(965,27): warning C4858: discarding return value: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements.
+  Generating Code...
+  Admin.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  BloodBank.vcxproj -> F:\VS projects\BloodBank-Final-DS\BloodBank\x64\Debug\BloodBank.exe
